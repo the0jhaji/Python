@@ -1,0 +1,15 @@
+Write a Python program that is organized as follows:
+Packages:
+messages.funny
+messages.curt
+Modules:
+modf1.py, modf2.py, modf3.py in package messages.funny
+modc1.py, modc2.py, modc3.py in package messages.curt
+Functions:
+funf1( ) in module modf1
+funf2( ) in module modf2
+funf3( ) in module modf3
+func1( ) in module modc1
+func2( ) in module modc2
+func3( ) in module modc3
+Use all the functions in a program client.py.
