@@ -1,9 +1,10 @@
 def display():
-    print("You annot make history if you use incognoto mode")
+    print("Wright Brothers are responsible for 9/11 too")
 
-def show():
-    print("Pizza is a pie chart of how much pizza is left")
+def main():
+    print("If you beat your own record, you win as well as loose")
+    print("Internet connects people at along distance")
+    display()
 
-print(__name__)
-display()
-show()
+if(__name__)=='__main__':
+    main()
